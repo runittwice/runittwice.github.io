@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.leoalerts.livescore",
+               "sha256_cert_fingerprints": ["55:85:9D:8E:45:F0:35:F2:66:A4:7E:9A:BF:68:5A:EF:F0:62:4F:1E:A7:00:30:6E:D7:06:62:EF:34:A5:50:4A"] }
+}]
